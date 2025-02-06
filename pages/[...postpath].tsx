@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://nextjs.org/` + encodeURI(path as string)
+					`https://4kpro.top/` + encodeURI(path as string)
 				}`,
 			},
 		};
