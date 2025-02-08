@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
       {/* Image ko ek <a> tag ke andar wrap kiya gaya hai */}
-      <a href="https://www.yourwebsite.com" target="_blank" rel="noopener noreferrer">
+      <a href="facebook.com" target="youtube.com" rel="noopener noreferrer">
         <Image
           src="/2.jpg"  // Image ka path jo aapne public folder mein daala hai
           alt="My Image Asif Ali"
