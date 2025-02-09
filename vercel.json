@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/how-to-earn-real-money-online-in-2025",  // The clean, friendly URL
+      "destination": "https://ahmed4.free.nf/how-to-earn-real-money-online-in-2025",  // The actual WordPress post URL
+      "permanent": true
+    } 
+  ]
+}
